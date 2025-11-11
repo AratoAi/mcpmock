@@ -1,0 +1,14 @@
+# Copilot context file (internal use only)
+COPILOT.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
+
+# Environment files
+.env
+.env.local
