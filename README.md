@@ -4,7 +4,9 @@ Welcome to the **MCPMock Examples Repository**! This repository showcases the ca
 
 ## 🌟 What is MCPMock?
 
-MCPMock is a production-ready mock server that helps you:
+MCPMock is a full-featured Model Context Protocol (MCP) mock server used for developing, testing, and debugging MCP clients and AI agents. It provides mock MCP tools, mock responses, and dynamic tool simulations for developers building LLM-based applications, agent frameworks, or MCP integrations.
+
+MCPMock helps you:
 - **Test AI integrations** without depending on real services
 - **Develop MCP clients** with realistic mock responses
 - **Create dynamic mock tools** with templates, sequences, and functions
